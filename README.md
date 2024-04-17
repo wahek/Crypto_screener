@@ -35,5 +35,5 @@ ___react-chartjs-2___ отстраивает 3 графика: (График ц�
 >привет
 
 
-
+![Static Badge](https://img.shields.io/badge/build-v5.2-brightgreen?style=flat-square&logo=chartdotjs&logoColor=white&label=react-chartjs-2&labelColor=black&color=aqua)
 
