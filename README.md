@@ -1,22 +1,22 @@
 <h1 align="center">Cкринер криптовалют</h1>
 <hr>
 
-<h3>Стек:</h3>
+### Стек:
 #### Backend
 
-![Static Badge](https://img.shields.io/badge/build-v3.11-brightgreen?style=flat-square&logo=python&label=python&labelColor=yellow&color=aqua)
-![Static Badge](https://img.shields.io/badge/build-v0.110.1-brightgreen?style=flat-square&logo=FastAPI&logoColor=black&label=FastAPI&labelColor=teal&color=aqua)
-![Static Badge](https://img.shields.io/badge/build-v2.6.4-brightgreen?style=flat-square&logo=Pydantic&logoColor=white&label=Pydantic&labelColor=deeppink&color=aqua)
-![Static Badge](https://img.shields.io/badge/build-v3.9-brightgreen?style=flat-square&logo=AIOHTTP&logoColor=fuchsia&label=AIOHTTP&labelColor=deepskyblue&color=aqua)
-![Static Badge](https://img.shields.io/badge/build-API_v2-brightgreen?style=flat-square&logo=CoinMarketCap&logoColor=black&label=CoinMarketCap&labelColor=azure&color=aqua)
+>![Static Badge](https://img.shields.io/badge/build-v3.11-brightgreen?style=flat-square&logo=python&label=python&labelColor=yellow&color=aqua)
+>![Static Badge](https://img.shields.io/badge/build-v0.110.1-brightgreen?style=flat-square&logo=FastAPI&logoColor=black&label=FastAPI&labelColor=teal&color=aqua)
+>![Static Badge](https://img.shields.io/badge/build-v2.6.4-brightgreen?style=flat-square&logo=Pydantic&logoColor=white&label=Pydantic&labelColor=deeppink&color=aqua)
+>![Static Badge](https://img.shields.io/badge/build-v3.9-brightgreen?style=flat-square&logo=AIOHTTP&logoColor=fuchsia&label=AIOHTTP&labelColor=deepskyblue&color=aqua)
+>![Static Badge](https://img.shields.io/badge/build-API_v2-brightgreen?style=flat-square&logo=CoinMarketCap&logoColor=black&label=CoinMarketCap&labelColor=azure&color=aqua)
 
 #### Frontend
 
-> ![Static Badge](https://img.shields.io/badge/build-v5.2-brightgreen?style=flat-square&logo=Vite&label=Vite&labelColor=palegreen&color=aqua)
-> ![Static Badge](https://img.shields.io/badge/build-v18.2-brightgreen?style=flat-square&logo=react&label=React&labelColor=palevioletred&color=aqua)
-> ![Static Badge](https://img.shields.io/badge/build-v5.2-brightgreen?style=flat-square&logo=antdesign&logoColor=orange&label=AntDesign&labelColor=slateblue&color=aqua)
-> ![Static Badge](https://img.shields.io/badge/build-v1.6-brightgreen?style=flat-square&logo=Axios&logoColor=darkorchid&label=Axios&labelColor=powderblue&color=aqua)
-> ![Static Badge](https://img.shields.io/badge/build-v5.2-brightgreen?style=flat-square&logo=chartdotjs&logoColor=white&label=react-chartjs-2&labelColor=black&color=aqua)
+>![Static Badge](https://img.shields.io/badge/build-v5.2-brightgreen?style=flat-square&logo=Vite&label=Vite&labelColor=palegreen&color=aqua)
+>![Static Badge](https://img.shields.io/badge/build-v18.2-brightgreen?style=flat-square&logo=react&label=React&labelColor=palevioletred&color=aqua)
+>![Static Badge](https://img.shields.io/badge/build-v5.2-brightgreen?style=flat-square&logo=antdesign&logoColor=orange&label=AntDesign&labelColor=slateblue&color=aqua)
+>![Static Badge](https://img.shields.io/badge/build-v1.6-brightgreen?style=flat-square&logo=Axios&logoColor=darkorchid&label=Axios&labelColor=powderblue&color=aqua)
+>![Static Badge](https://img.shields.io/badge/build-v5.2-brightgreen?style=flat-square&logo=chartdotjs&logoColor=white&label=react-chartjs-2&labelColor=black&color=aqua)
 
 <img align="center" src="browser_GEAtKDNGAz.gif" alt="Демонстрация работы приложения">
 
