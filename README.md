@@ -10,6 +10,7 @@
 >![Static Badge](https://img.shields.io/badge/build-v2.6.4-brightgreen?style=flat-square&logo=Pydantic&logoColor=white&label=Pydantic&labelColor=deeppink&color=aqua)
 >![Static Badge](https://img.shields.io/badge/build-v3.9-brightgreen?style=flat-square&logo=AIOHTTP&logoColor=fuchsia&label=AIOHTTP&labelColor=deepskyblue&color=aqua)
 >![Static Badge](https://img.shields.io/badge/build-API_v2-brightgreen?style=flat-square&logo=CoinMarketCap&logoColor=black&label=CoinMarketCap&labelColor=azure&color=aqua)
+>![Static Badge](https://img.shields.io/badge/build-v2.0-brightgreen?style=flat-square&logo=kashflow&label=async-lru&labelColor=oldlace&color=aqua)
 
 #### Frontend
 
@@ -31,7 +32,9 @@
 
 Интерфейс приложения позволяет получать информацию о 100 наиболее ликвидных криптовалютах. Запрос с **frontend** идёт на 
 ___uvicorn___ где запущено приложение на ___FastAPI___. Затем **backend** отправляет запрос через ___AIOHTTP___ на
-стороннее **API** ___CoinMarketCup___. Далее передаёт ответ **json объект** в ___JavaScript___.
+стороннее **API** ___CoinMarketCup___ и кешируются ___lru___ для моментального ответа сервера, а так же для уменьшения 
+нагрузок на сеть, а так же не расходовать количество запросов к стороннему **API**. 
+Далее передаёт ответ **json объект** в ___JavaScript___.
 
 При выборе конкретной криптовалюты из списка меню, выводится подробная информация о цене, капитализации, изменений цен
 и объёмов. Имеется опция конвертации и выводе цены в конкретной фиатной валюте **($, €, ¥, ₽)** . Так же с **backend** 
