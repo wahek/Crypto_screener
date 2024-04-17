@@ -1,5 +1,6 @@
 <h1 align="center">Cкринер криптовалют</h1>
-<hr>
+
+***
 
 ### Стек:
 #### Backend
@@ -18,8 +19,11 @@
 >![Static Badge](https://img.shields.io/badge/build-v1.6-brightgreen?style=flat-square&logo=Axios&logoColor=darkorchid&label=Axios&labelColor=powderblue&color=aqua)
 >![Static Badge](https://img.shields.io/badge/build-v5.2-brightgreen?style=flat-square&logo=chartdotjs&logoColor=white&label=react-chartjs-2&labelColor=black&color=aqua)
 
+***
+
 <img align="center" src="browser_GEAtKDNGAz.gif" alt="Демонстрация работы приложения">
 
+***
 
 Интерфейс приложения позволяет получать информацию о 100 наиболее ликвидных криптовалютах. Запрос с **frontend** идёт на 
 ___uvicorn___ где запущено приложение на ___FastAPI___. Затем **backend** отправляет запрос через ___AIOHTTP___ на
@@ -35,8 +39,4 @@ ___react-chartjs-2___ отстраивает 3 графика: (График ц�
 Интерфейс позволяет проводить конвертацию криптовалюты в фиатную валюту и наоборот. Функция поддерживает выбор всех 
 криптовалют из меню, и 4 фиатные валюты **($, €, ¥, ₽)**
 
->привет
-
-
-![Static Badge](https://img.shields.io/badge/build-v5.2-brightgreen?style=flat-square&logo=chartdotjs&logoColor=white&label=react-chartjs-2&labelColor=black&color=aqua)
 
