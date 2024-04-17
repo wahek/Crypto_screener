@@ -21,6 +21,7 @@
 >![Static Badge](https://img.shields.io/badge/build-v3.4-brightgreen?style=flat-square&logo=tailwindcss&label=tailwind&color=aqua)
 >![Static Badge](https://img.shields.io/badge/HTML%205-brightgreen?style=flat-square&logo=html5&labelColor=blue&color=blue)
 >![Static Badge](https://img.shields.io/badge/CSS%203-brightgreen?style=flat-square&logo=css3&logoColor=blue&labelColor=red&color=red)
+>![Static Badge](https://img.shields.io/badge/build-v20.12-brightgreen?style=flat-square&logo=nodedotjs&label=Node.js&labelColor=black&color=aqua)
 
 ***
 
