@@ -1,0 +1,93 @@
+.main-container{
+    max-width: 2400px;
+}
+
+.card-container {
+    width: 100%;
+}
+
+.side-menu {
+    min-width: 220px;
+}
+
+.button-fiat {
+    border-bottom: 1px solid #ebeaea;
+    width: 25%;
+    height: 50px;
+    transition: .1s;
+}
+.button-fiat:hover {
+    transition: .1s;
+    background-color: #ebeaea;
+}
+
+.container-shadow {
+    box-shadow: 0 1px 10px rgb(0,0,0,0.2);
+    width: 700px;
+}
+
+.select-body {
+    min-width: 200px;
+}
+
+.select-body__amount {
+    min-width: 200px;
+    height: 38px;
+    border: 1px rgb(187, 185, 185) solid;
+    border-radius: 5px;
+}
+
+.button-calc {
+    width: 456px;
+    font-size: 18px;
+}
+
+.converter {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+
+.chart-box{
+    width: 100%;
+}
+
+.chart{
+    width: 100%;
+}
+
+.graph{
+    justify-content: space-around;
+}
+
+.graph-rel{
+    position: relative;
+}
+
+.graph-graph{
+    width: 50%;
+    height: 25vh;
+}
+
+.graph-text{
+    position: absolute;
+    top: 7%;
+    right: 3%;
+}
+
+
+
+@media (max-width: 1000px) {
+    .container-shadow {
+        width: 500px;
+    }
+}
+
+@media (max-width: 1413px) {
+    .converter {
+        flex-direction: column;
+        align-items: center;
+    }
+  }
