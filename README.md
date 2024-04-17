@@ -19,7 +19,8 @@
 >![Static Badge](https://img.shields.io/badge/build-v1.6-brightgreen?style=flat-square&logo=Axios&logoColor=darkorchid&label=Axios&labelColor=powderblue&color=aqua)
 >![Static Badge](https://img.shields.io/badge/build-v5.2-brightgreen?style=flat-square&logo=chartdotjs&logoColor=white&label=react-chartjs-2&labelColor=black&color=aqua)
 >![Static Badge](https://img.shields.io/badge/build-v3.4-brightgreen?style=flat-square&logo=tailwindcss&label=tailwind&color=aqua)
-
+>![Static Badge](https://img.shields.io/badge/HTML%205-brightgreen?style=flat-square&logo=html5&labelColor=blue&color=blue)
+>![Static Badge](https://img.shields.io/badge/CSS%203-brightgreen?style=flat-square&logo=css3&logoColor=blue&labelColor=red&color=red)
 
 ***
 
