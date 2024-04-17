@@ -3,7 +3,7 @@
 
 <h3>Стек:</h3>
 #### Backend
-> ![Static Badge](https://img.shields.io/badge/build-v3.11-brightgreen?style=flat-square&logo=python&label=python&labelColor=yellow&color=aqua)
+![Static Badge](https://img.shields.io/badge/build-v3.11-brightgreen?style=flat-square&logo=python&label=python&labelColor=yellow&color=aqua)
 ![Static Badge](https://img.shields.io/badge/build-v0.110.1-brightgreen?style=flat-square&logo=FastAPI&logoColor=black&label=FastAPI&labelColor=teal&color=aqua)
 ![Static Badge](https://img.shields.io/badge/build-v2.6.4-brightgreen?style=flat-square&logo=Pydantic&logoColor=white&label=Pydantic&labelColor=deeppink&color=aqua)
 ![Static Badge](https://img.shields.io/badge/build-v3.9-brightgreen?style=flat-square&logo=AIOHTTP&logoColor=fuchsia&label=AIOHTTP&labelColor=deepskyblue&color=aqua)
